@@ -6,7 +6,7 @@
  *
  */
 import t from './index.js'
-import templates from 'tcomb-form-templates-bootstrap'
+import templates from 'tcomb-form-templates-blueprintjs'
 import i18n from './i18n/en'
 
 t.form.Form.templates = templates
