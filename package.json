@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/gcanti/tcomb-form",
   "dependencies": {
-    "tcomb-form-templates-bootstrap": "^0.2.0",
+    "tcomb-form-templates-blueprintjs": "truthtaicom/tcomb-form-templates-blueprintjs",
     "tcomb-validation": "^3.0.0"
   },
   "peerDependencies": {
